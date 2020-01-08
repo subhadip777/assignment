@@ -1,6 +1,8 @@
 body{
 	background-image: url(pic2.jpg);
 	background-attachment: fixed;
+	background-repeat: repeat-y;
+	background-size: 100%;
 }
 *{
 	box-sizing: border-box;
